@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+.content{
+    display: flex;
+    height: 100vh;
+}
+.pictureContainer{
+    background-image: url(img/book.jpg);
+    flex: 1;
+}
+
+.signForm{
+    flex: 2;
+}
